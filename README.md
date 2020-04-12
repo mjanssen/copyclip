@@ -2,6 +2,10 @@
 
 A 220 byte (gzip) utility to easily copy content to your clipboard.
 
+## Install
+
+`npm i copyclip`
+
 ## Example
 
 Url: `https://example.com?foo=baz&something=more`
